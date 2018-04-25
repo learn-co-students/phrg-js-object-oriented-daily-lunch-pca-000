@@ -8,3 +8,5 @@ languages:
   - javascript
 resources:
   - 0
+
+parent_template: git@github.com:learn-co-curriculum/js-object-oriented-daily-lunch.git
