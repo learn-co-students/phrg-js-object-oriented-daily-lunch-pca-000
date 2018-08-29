@@ -36,4 +36,8 @@ In the following lab, we will be modeling all the models for The Daily Deli.  Th
   + `deliveries()` - returns a list of deliveries ordered by the employer's employees
   + `meals()` - returns a list of meals ordered by the employer's employees.  The method is to not return the same meal multiple times.
   + `mealTotals()` - returns a JavaScript object displaying each respective meal id ordered by the employer's employees.  The keys of the JavaScript object are the meal ids and associated with each meal id is a value.  For example, `employerOne.mealTotals()` returning an object of `{1: 4, 2: 3}` would mean that the meal with id of 1 was ordered by employerOne's employees four times, and the meal with id of 2 was ordered by employerOne's employees three times.  
+  
+  ## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-object-oriented-daily-lunch/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-object-oriented-daily-lunch/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
 <p data-visibility='hidden'>PHRG Daily Lunch Lab</p>
